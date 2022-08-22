@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello world！
 this is my love1
+=======
+hello world！
+You are my love!
+>>>>>>> 1dc1693ff451daa13c7223c97a7a12670febdec0
